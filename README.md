@@ -9,3 +9,5 @@ Preparação:
  - configurar seu computador (https://github.com/rwaldron/johnny-five/wiki/Getting-Started)
  
  - adicionar o request na mesma pasta em que foi adicionado o johnny-five (https://www.npmjs.com/package/request)
+
+![alt tag](https://github.com/marcosdeoliveira/ArduinoDay_2017/blob/images/read_image.png?raw=true)
